@@ -1,4 +1,4 @@
-# Numerical-solution
+# Numerical_solution
 
 ## Python
 
